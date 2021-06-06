@@ -1,0 +1,172 @@
+
+<style type="text/css">
+/* ===== Scrollbar CSS ===== */
+  /* Firefox */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #ddd #ffffff;
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 10px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #ffffff;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #ddd;
+    border-radius: 10px;
+    border: 3px solid #ffffff;
+  }
+
+.content-wrapper{
+  background-color: #fff;
+}
+
+.btn-label {
+  position: relative;
+  left: -12px;
+  display: inline-block;
+  padding: 6px 12px;
+  background: rgba(0, 0, 0, 0.15);
+  border-radius: 3px 0 0 3px;
+}
+.btn-labeled {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+  .indigo{
+    
+  }
+
+  .myblue{
+    background: #FFFFFF; 
+
+  }
+  .caraku {
+  background: #fff; 
+  padding: 10px 0 10px 0;
+  border-radius: 5px;
+  color: white;
+  
+}
+
+[class*="sidebar-light"] .brand-link{
+  border-bottom: 0px;
+}
+[class*="sidebar-light"] .user-panel {
+  border-bottom: 1px solid #140d35;
+}
+
+.mytextLigth{
+  color: red;
+}
+
+.brand-link .brand-image {
+  float: left;
+  line-height: .8;
+  margin-left: .8rem;
+  margin-right: .5rem;
+  margin-top: 0px; 
+  max-height: 33px;
+  width: auto;
+}
+
+.main-sidebar .brand-text, .main-sidebar .logo-xl, .main-sidebar .logo-xs, .sidebar .nav-link p, .sidebar .user-panel .info {
+  
+  font-size: 15px;
+}
+
+.a_style2{
+ font-size: 17px;
+}
+
+#col1{
+background: #00F260;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #0575E6, #8400F2);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #0575E6, #8400F2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#col2{
+background: #f12711;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f5af19, #f12711);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f5af19, #f12711); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#col3{
+background: #f953c6;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #b91d73, #f953c6);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #b91d73, #f953c6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+.btnku {
+  
+ 
+  border: 2px solid white; 
+  color : white;
+}
+
+.cardku{
+  border-radius: 10px;
+ 
+}
+
+
+@media (max-width:500px) {
+ 
+.hiddenmobile{
+
+  display: none;
+}
+.form-group{
+  width: 100%;
+}
+
+}
+@media (min-width: 1000px) {
+
+
+
+}
+
+.nav-link active{
+  
+   color: #fff;
+  box-shadow: none;
+}
+
+.sidebar-dark-primary .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-primary .nav-sidebar > .nav-item > .nav-link.active{
+ 
+  color: #fff;
+  box-shadow: none;
+  font-size: 15px;
+}
+
+
+.ratings i {
+    color: green
+}
+
+.install span {
+    font-size: 12px
+}
+
+.col-md-4 {
+    margin-top: 27px
+}
+
+.btn-ungu {
+  color: #fff;
+ 
+  box-shadow: none;
+  background: linear-gradient(to right, #af28fb, #2B4CFF);
+
+}
+
+
+</style>

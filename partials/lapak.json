@@ -1,0 +1,17 @@
+[
+	
+ { "namaproduk":"Ayam Bakar", 
+ 	"harga":"Rp. 15000 / Porsi",
+ 	"gambar":"ayambakar.jpg",
+ 	"nomor_penjual": "085338492520",
+ 	"catatan":"Melayani makan ditempat dan catering"
+ },
+
+ { "namaproduk":"Jamu", 
+ 	"harga":"Rp. 5000 / Botol",
+ 	"gambar":"jamu.jpg",
+ 	"nomor_penjual": "085338492520",
+ 	"catatan":"Melayani pemesanan jamu, baik dalam dan luar kota"
+ }
+ 
+]
