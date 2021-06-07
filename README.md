@@ -15,7 +15,7 @@
 )
 - Extract File
 - Copy Folder yang sudah diExtract lalu pastekan pada direktori tema pada direktori web OpenSid > Themes > paste disini
-- Masuk / login ke dashboar admin. Contoh ke www.websitedesakamu.id/siteman
+- Masuk / login ke dashboar admin. Contoh ke www.websitedesakamu.id/index.php/siteman
 - Masukkan username dan password, setelah itu login
 - pada menu kiri terdapat menu pengaturan > aplikasi > scroll kebawah dan pilih tema netral
 
