@@ -10,9 +10,10 @@
 
 
 </div>
-      <div id="footer">
-        <?php $this->load->view(Web_Controller::fallback_default($this->theme, 'commons/footer'));?>
-      </div>
+      
+	<div id=" footer">
+		<?php $this->load->view($folder_themes.'/commons/footer');?>
+	</div>
     </div>
   </body>
 </html>
