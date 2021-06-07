@@ -14,7 +14,8 @@
 - Download Tema [Disini]( https://github.com/teguhsaint/Netral-OpenSIDThemes/archive/refs/heads/main.zip
 )
 - Extract File
-- Copy Folder yang sudah diExtract lalu pastekan pada direktori tema pada direktori web OpenSid > Themes > paste disini
+- Setelah ter Extract, buat folder baru didalam folder themes, namai "netral" tanpa tanda kutip.
+- Copy File yang sudah diExtract, lalu pastekan pada direktori tema pada direktori Themes > netral
 - Masuk / login ke dashboar admin. Contoh ke www.websitedesakamu.id/index.php/siteman
 - Masukkan username dan password, setelah itu login
 - pada menu kiri terdapat menu pengaturan > aplikasi > scroll kebawah dan pilih tema netral
