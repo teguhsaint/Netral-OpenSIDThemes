@@ -98,7 +98,7 @@
 
 <div class="row" style=" text-align: center; justify-content:center; background-color: #0000002e; padding:10px;">
 	<a  target="blank" href="https://opendesa.id" style="padding: 2px; width: auto">&copy; 2016-<?php echo date("Y");?>  OpenDesa</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a target="blank" href="https://github.com/OpenSID/OpenSID"  style="padding: 2px; width: auto"> Versi : OpenSID  <?php echo AmbilVersi()?></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a target="blank" href="#"  style="padding: 2px; width: auto">Tema Langit</a>
+	<a target="blank" href="https://github.com/OpenSID/OpenSID"  style="padding: 2px; width: auto"> Versi : OpenSID  <?php echo AmbilVersi()?></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a target="blank" href="#"  style="padding: 2px; width: auto">Tema Netral</a>
 
 	<div>
 		<a target="blank" href="https://www.facebook.com/groups/OpenSID/">Aplikasi Sistem Informasi Desa (SID) ini dikembangkan oleh Komunitas OpenSID</a>
