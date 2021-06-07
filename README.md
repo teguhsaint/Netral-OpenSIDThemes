@@ -26,7 +26,7 @@
   - Setelah itu masuk ke direktori themes > netral > partials.
   - cari file bernama "lapak.json"
   - tambah, edit, delete atau copy baris yang tersedia.
-  - sesuaikan nama produk, nama gambar ( seuaikan dengan nama file gambar, dari nama sampai extensi gambar .jpg .png ), nomor penjual dll.
+  - sesuaikan nama produk, nama gambar ( sesuaikan dengan nama file gambar, dari nama sampai extensi gambar .jpg .png ), nomor penjual dll.
   
 - ##Peletakan Gambar Lapak
 
