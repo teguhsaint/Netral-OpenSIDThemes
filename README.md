@@ -1,5 +1,9 @@
+## Baca [Petunjuk Instalasi](https://github.com/teguhsaint/Netral-OpenSIDThemes/blob/main/README.md#instalasi) 
+
+
 # Netral-OpenSIDThemes
 ![tes](https://user-images.githubusercontent.com/75825300/120944155-2d403280-c75d-11eb-9fc7-e644db0b5377.png)
+
 
 ## Tentang Netral Themes
 - Designer : Teguh Saint 
